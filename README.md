@@ -1,6 +1,6 @@
 # JSON Resume Theme Directory
 
-Aggregator the fantastic templates available in NPM for [JSON Resume](https://jsonresume.org/). Uses the API available at [NPMS.io](https://www.npms.io)
+Aggregator of the fantastic templates available in NPM for [JSON Resume](https://jsonresume.org/). Uses the API available at [NPMS.io](https://www.npms.io)
 
 ### Getting Started
 ```
